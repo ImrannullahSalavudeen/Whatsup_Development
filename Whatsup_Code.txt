@@ -7,3 +7,6 @@ Author name : Imrannullah
 3. Last seen Code
 4. Attachments Code (Image, Video, Audio)
 5. Hide last seen code
+
+6. Adding the audio call feature
+7. Adding the Video call feature
