@@ -6,3 +6,4 @@ Author name : Imrannullah
 2. Chat screen Code
 3. Last seen Code
 4. Attachments Code (Image, Video, Audio)
+5. Hide last seen code
